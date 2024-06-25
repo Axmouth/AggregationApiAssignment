@@ -1,0 +1,10 @@
+id: AggregationApiAssignment
+language: CSharp
+name:
+  Default: AggregationApiAssignment
+qualifiedName:
+  Default: AggregationApiAssignment
+type: Assembly
+modifiers: {}
+items: []
+references: {}
